@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "Not yet Implemented"
-
+roslaunch ros_faces pivideo.launch node_name:=node_4
